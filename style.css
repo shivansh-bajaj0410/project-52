@@ -1,0 +1,33 @@
+.header{
+    backgrounnd-color:#9feed0;
+    justify-content: left;
+    padding-left: 30px;
+    color: #63af00;
+}
+.link{
+    background-color:#fcc4c4;
+    justify-self: right;
+    padding: 15px;
+}
+.para{
+    background-color: #f78ee0;
+    padding-bottom: 20px;
+    color: #3e00cf;
+}
+.image{
+    background-color: #77d5fa;
+    color: #501e72;
+    justify-tracks: 25px;
+}
+a:link{
+    color:#0055aa
+}
+a:visited{
+    color: #ffaa55;
+}
+.image:hover img{
+    opacity: 0.33;
+}
+.image:hover p{
+    opacity:0;
+}
